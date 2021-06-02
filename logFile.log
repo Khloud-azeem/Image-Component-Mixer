@@ -1,0 +1,1017 @@
+2021-05-07 17:16:12,646 uiname is MainWindow
+2021-05-07 17:16:12,715 toplevel widget is QMainWindow
+2021-05-07 17:16:12,715 setting property geometry
+2021-05-07 17:16:12,715 setting property minimumSize
+2021-05-07 17:16:12,716 setting property windowTitle
+2021-05-07 17:16:12,716 push QMainWindow MainWindow
+2021-05-07 17:16:12,716 push QWidget centralwidget
+2021-05-07 17:16:12,716 push QGridLayout gridLayout_40
+2021-05-07 17:16:12,716 push QGridLayout gridLayout_39
+2021-05-07 17:16:12,717 push QGridLayout gridLayout_9
+2021-05-07 17:16:12,717 setting property styleSheet
+2021-05-07 17:16:12,717 setting property title
+2021-05-07 17:16:12,717 push QGroupBox groupBox_7
+2021-05-07 17:16:12,717 push QGridLayout gridLayout_20
+2021-05-07 17:16:12,717 push QGridLayout gridLayout_22
+2021-05-07 17:16:12,718 push QGridLayout gridLayout_23
+2021-05-07 17:16:12,718 setting property font
+2021-05-07 17:16:12,718 setting property text
+2021-05-07 17:16:12,719 push QLabel label_14
+2021-05-07 17:16:12,719 pop widget QLabel label_14
+2021-05-07 17:16:12,719 new topwidget self.groupBox_7
+2021-05-07 17:16:12,719 pop layout QGridLayout gridLayout_23
+2021-05-07 17:16:12,719 push QGridLayout gridLayout_32
+2021-05-07 17:16:12,719 push QGridLayout gridLayout_33
+2021-05-07 17:16:12,719 push QGridLayout gridLayout_34
+2021-05-07 17:16:12,720 setting property enabled
+2021-05-07 17:16:12,720 setting property minimumSize
+2021-05-07 17:16:12,720 setting property font
+2021-05-07 17:16:12,720 setting property acceptDrops
+2021-05-07 17:16:12,720 setting property iconSize
+2021-05-07 17:16:12,720 push QComboBox comboBox_4
+2021-05-07 17:16:12,721 pop widget QComboBox comboBox_4
+2021-05-07 17:16:12,721 new topwidget self.groupBox_7
+2021-05-07 17:16:12,721 pop layout QGridLayout gridLayout_34
+2021-05-07 17:16:12,721 push QGridLayout gridLayout_35
+2021-05-07 17:16:12,721 push QGridLayout gridLayout_36
+2021-05-07 17:16:12,721 push QGridLayout gridLayout_37
+2021-05-07 17:16:12,722 pop layout QGridLayout gridLayout_37
+2021-05-07 17:16:12,722 setting property orientation
+2021-05-07 17:16:12,722 push QSlider slider
+2021-05-07 17:16:12,722 pop widget QSlider slider
+2021-05-07 17:16:12,722 new topwidget self.groupBox_7
+2021-05-07 17:16:12,722 pop layout QGridLayout gridLayout_36
+2021-05-07 17:16:12,722 pop layout QGridLayout gridLayout_35
+2021-05-07 17:16:12,722 pop layout QGridLayout gridLayout_33
+2021-05-07 17:16:12,722 setting property enabled
+2021-05-07 17:16:12,723 setting property minimumSize
+2021-05-07 17:16:12,723 setting property font
+2021-05-07 17:16:12,723 setting property acceptDrops
+2021-05-07 17:16:12,723 setting property iconSize
+2021-05-07 17:16:12,723 push QComboBox comboBox_6
+2021-05-07 17:16:12,723 pop widget QComboBox comboBox_6
+2021-05-07 17:16:12,724 new topwidget self.groupBox_7
+2021-05-07 17:16:12,724 pop layout QGridLayout gridLayout_32
+2021-05-07 17:16:12,724 pop layout QGridLayout gridLayout_22
+2021-05-07 17:16:12,724 setting property orientation
+2021-05-07 17:16:12,724 push QFrame line_3
+2021-05-07 17:16:12,724 pop widget QFrame line_3
+2021-05-07 17:16:12,724 new topwidget self.groupBox_7
+2021-05-07 17:16:12,724 push QGridLayout gridLayout_24
+2021-05-07 17:16:12,725 push QGridLayout gridLayout_25
+2021-05-07 17:16:12,725 setting property font
+2021-05-07 17:16:12,725 setting property text
+2021-05-07 17:16:12,725 push QLabel label_15
+2021-05-07 17:16:12,726 pop widget QLabel label_15
+2021-05-07 17:16:12,726 new topwidget self.groupBox_7
+2021-05-07 17:16:12,726 pop layout QGridLayout gridLayout_25
+2021-05-07 17:16:12,726 push QGridLayout gridLayout_26
+2021-05-07 17:16:12,726 push QGridLayout gridLayout_27
+2021-05-07 17:16:12,726 push QGridLayout gridLayout_28
+2021-05-07 17:16:12,726 setting property enabled
+2021-05-07 17:16:12,726 setting property minimumSize
+2021-05-07 17:16:12,727 setting property font
+2021-05-07 17:16:12,727 setting property acceptDrops
+2021-05-07 17:16:12,727 setting property iconSize
+2021-05-07 17:16:12,727 push QComboBox comboBox_5
+2021-05-07 17:16:12,727 pop widget QComboBox comboBox_5
+2021-05-07 17:16:12,728 new topwidget self.groupBox_7
+2021-05-07 17:16:12,728 pop layout QGridLayout gridLayout_28
+2021-05-07 17:16:12,728 push QGridLayout gridLayout_29
+2021-05-07 17:16:12,728 push QGridLayout gridLayout_30
+2021-05-07 17:16:12,729 setting property orientation
+2021-05-07 17:16:12,729 push QSlider slider_2
+2021-05-07 17:16:12,729 pop widget QSlider slider_2
+2021-05-07 17:16:12,729 new topwidget self.groupBox_7
+2021-05-07 17:16:12,729 push QGridLayout gridLayout_31
+2021-05-07 17:16:12,729 pop layout QGridLayout gridLayout_31
+2021-05-07 17:16:12,729 pop layout QGridLayout gridLayout_30
+2021-05-07 17:16:12,730 pop layout QGridLayout gridLayout_29
+2021-05-07 17:16:12,730 pop layout QGridLayout gridLayout_27
+2021-05-07 17:16:12,730 setting property enabled
+2021-05-07 17:16:12,730 setting property minimumSize
+2021-05-07 17:16:12,730 setting property font
+2021-05-07 17:16:12,730 setting property acceptDrops
+2021-05-07 17:16:12,730 setting property iconSize
+2021-05-07 17:16:12,730 push QComboBox comboBox_7
+2021-05-07 17:16:12,731 pop widget QComboBox comboBox_7
+2021-05-07 17:16:12,731 new topwidget self.groupBox_7
+2021-05-07 17:16:12,731 pop layout QGridLayout gridLayout_26
+2021-05-07 17:16:12,731 pop layout QGridLayout gridLayout_24
+2021-05-07 17:16:12,732 push QGridLayout gridLayout_21
+2021-05-07 17:16:12,732 setting property enabled
+2021-05-07 17:16:12,732 setting property minimumSize
+2021-05-07 17:16:12,732 setting property font
+2021-05-07 17:16:12,732 setting property acceptDrops
+2021-05-07 17:16:12,732 setting property iconSize
+2021-05-07 17:16:12,732 push QComboBox comboBox_3
+2021-05-07 17:16:12,733 pop widget QComboBox comboBox_3
+2021-05-07 17:16:12,733 new topwidget self.groupBox_7
+2021-05-07 17:16:12,733 setting property font
+2021-05-07 17:16:12,733 setting property text
+2021-05-07 17:16:12,733 push QLabel label_13
+2021-05-07 17:16:12,733 pop widget QLabel label_13
+2021-05-07 17:16:12,733 new topwidget self.groupBox_7
+2021-05-07 17:16:12,734 pop layout QGridLayout gridLayout_21
+2021-05-07 17:16:12,734 pop layout QGridLayout gridLayout_20
+2021-05-07 17:16:12,734 pop widget QGroupBox groupBox_7
+2021-05-07 17:16:12,734 new topwidget self.centralwidget
+2021-05-07 17:16:12,734 setting property title
+2021-05-07 17:16:12,734 push QGroupBox groupBox_10
+2021-05-07 17:16:12,734 push QGridLayout gridLayout_11
+2021-05-07 17:16:12,735 push QGridLayout gridLayout_12
+2021-05-07 17:16:12,735 push QGridLayout gridLayout_13
+2021-05-07 17:16:12,735 setting property font
+2021-05-07 17:16:12,735 setting property frameShape
+2021-05-07 17:16:12,735 setting property text
+2021-05-07 17:16:12,735 setting property alignment
+2021-05-07 17:16:12,735 push QLabel label_6
+2021-05-07 17:16:12,735 pop widget QLabel label_6
+2021-05-07 17:16:12,736 new topwidget self.groupBox_10
+2021-05-07 17:16:12,736 setting property title
+2021-05-07 17:16:12,736 push QGroupBox groupBox_8
+2021-05-07 17:16:12,736 push QGridLayout gridLayout_7
+2021-05-07 17:16:12,736 push QGridLayout gridLayout_17
+2021-05-07 17:16:12,736 resolved baseclass of ImageView: QtWidgets.QGraphicsView
+2021-05-07 17:16:12,736 setting property sizePolicy
+2021-05-07 17:16:12,737 setting property minimumSize
+2021-05-07 17:16:12,737 push ImageView output_1
+2021-05-07 17:16:12,737 pop widget ImageView output_1
+2021-05-07 17:16:12,737 new topwidget self.groupBox_8
+2021-05-07 17:16:12,737 pop layout QGridLayout gridLayout_17
+2021-05-07 17:16:12,737 pop layout QGridLayout gridLayout_7
+2021-05-07 17:16:12,737 pop widget QGroupBox groupBox_8
+2021-05-07 17:16:12,737 new topwidget self.groupBox_10
+2021-05-07 17:16:12,737 pop layout QGridLayout gridLayout_13
+2021-05-07 17:16:12,738 push QGridLayout gridLayout_15
+2021-05-07 17:16:12,738 setting property font
+2021-05-07 17:16:12,738 setting property frameShape
+2021-05-07 17:16:12,738 setting property text
+2021-05-07 17:16:12,738 setting property alignment
+2021-05-07 17:16:12,738 push QLabel label_7
+2021-05-07 17:16:12,738 pop widget QLabel label_7
+2021-05-07 17:16:12,738 new topwidget self.groupBox_10
+2021-05-07 17:16:12,739 setting property title
+2021-05-07 17:16:12,739 push QGroupBox groupBox_9
+2021-05-07 17:16:12,739 push QGridLayout gridLayout_8
+2021-05-07 17:16:12,739 push QGridLayout gridLayout_18
+2021-05-07 17:16:12,740 resolved baseclass of ImageView: QtWidgets.QGraphicsView
+2021-05-07 17:16:12,740 setting property sizePolicy
+2021-05-07 17:16:12,741 setting property minimumSize
+2021-05-07 17:16:12,741 push ImageView output_2
+2021-05-07 17:16:12,741 pop widget ImageView output_2
+2021-05-07 17:16:12,741 new topwidget self.groupBox_9
+2021-05-07 17:16:12,741 pop layout QGridLayout gridLayout_18
+2021-05-07 17:16:12,741 pop layout QGridLayout gridLayout_8
+2021-05-07 17:16:12,741 pop widget QGroupBox groupBox_9
+2021-05-07 17:16:12,741 new topwidget self.groupBox_10
+2021-05-07 17:16:12,741 pop layout QGridLayout gridLayout_15
+2021-05-07 17:16:12,742 pop layout QGridLayout gridLayout_12
+2021-05-07 17:16:12,742 pop layout QGridLayout gridLayout_11
+2021-05-07 17:16:12,742 pop widget QGroupBox groupBox_10
+2021-05-07 17:16:12,742 new topwidget self.centralwidget
+2021-05-07 17:16:12,742 pop layout QGridLayout gridLayout_9
+2021-05-07 17:16:12,742 push QGridLayout gridLayout_38
+2021-05-07 17:16:12,742 setting property font
+2021-05-07 17:16:12,743 setting property styleSheet
+2021-05-07 17:16:12,743 setting property title
+2021-05-07 17:16:12,743 setting property flat
+2021-05-07 17:16:12,743 push QGroupBox groupBox_4
+2021-05-07 17:16:12,743 push QGridLayout gridLayout_4
+2021-05-07 17:16:12,743 setting property sizeConstraint
+2021-05-07 17:16:12,743 push QGridLayout gridLayout_19
+2021-05-07 17:16:12,744 setting property font
+2021-05-07 17:16:12,744 setting property styleSheet
+2021-05-07 17:16:12,744 setting property frameShape
+2021-05-07 17:16:12,744 setting property frameShadow
+2021-05-07 17:16:12,744 setting property text
+2021-05-07 17:16:12,745 push QLabel label_2
+2021-05-07 17:16:12,745 pop widget QLabel label_2
+2021-05-07 17:16:12,745 new topwidget self.groupBox_4
+2021-05-07 17:16:12,745 setting property enabled
+2021-05-07 17:16:12,745 setting property minimumSize
+2021-05-07 17:16:12,745 setting property font
+2021-05-07 17:16:12,745 setting property acceptDrops
+2021-05-07 17:16:12,745 setting property iconSize
+2021-05-07 17:16:12,745 push QComboBox comboBox_2
+2021-05-07 17:16:12,746 pop widget QComboBox comboBox_2
+2021-05-07 17:16:12,746 new topwidget self.groupBox_4
+2021-05-07 17:16:12,746 pop layout QGridLayout gridLayout_19
+2021-05-07 17:16:12,746 setting property orientation
+2021-05-07 17:16:12,746 push QFrame line_2
+2021-05-07 17:16:12,747 pop widget QFrame line_2
+2021-05-07 17:16:12,747 new topwidget self.groupBox_4
+2021-05-07 17:16:12,747 push QGridLayout gridLayout_14
+2021-05-07 17:16:12,747 setting property title
+2021-05-07 17:16:12,747 push QGroupBox groupBox_5
+2021-05-07 17:16:12,747 push QGridLayout gridLayout_5
+2021-05-07 17:16:12,747 resolved baseclass of ImageView: QtWidgets.QGraphicsView
+2021-05-07 17:16:12,748 setting property sizePolicy
+2021-05-07 17:16:12,748 setting property minimumSize
+2021-05-07 17:16:12,748 push ImageView imageView_2
+2021-05-07 17:16:12,748 pop widget ImageView imageView_2
+2021-05-07 17:16:12,748 new topwidget self.groupBox_5
+2021-05-07 17:16:12,748 pop layout QGridLayout gridLayout_5
+2021-05-07 17:16:12,748 pop widget QGroupBox groupBox_5
+2021-05-07 17:16:12,748 new topwidget self.groupBox_4
+2021-05-07 17:16:12,749 setting property title
+2021-05-07 17:16:12,749 push QGroupBox groupBox_6
+2021-05-07 17:16:12,749 push QGridLayout gridLayout_6
+2021-05-07 17:16:12,749 resolved baseclass of ImageView: QtWidgets.QGraphicsView
+2021-05-07 17:16:12,749 setting property sizePolicy
+2021-05-07 17:16:12,749 setting property minimumSize
+2021-05-07 17:16:12,750 push ImageView imageView_2_edit
+2021-05-07 17:16:12,750 pop widget ImageView imageView_2_edit
+2021-05-07 17:16:12,750 new topwidget self.groupBox_6
+2021-05-07 17:16:12,750 pop layout QGridLayout gridLayout_6
+2021-05-07 17:16:12,750 pop widget QGroupBox groupBox_6
+2021-05-07 17:16:12,750 new topwidget self.groupBox_4
+2021-05-07 17:16:12,750 pop layout QGridLayout gridLayout_14
+2021-05-07 17:16:12,750 pop layout QGridLayout gridLayout_4
+2021-05-07 17:16:12,750 pop widget QGroupBox groupBox_4
+2021-05-07 17:16:12,750 new topwidget self.centralwidget
+2021-05-07 17:16:12,750 setting property font
+2021-05-07 17:16:12,751 setting property title
+2021-05-07 17:16:12,751 setting property flat
+2021-05-07 17:16:12,751 push QGroupBox groupBox
+2021-05-07 17:16:12,751 push QGridLayout gridLayout_3
+2021-05-07 17:16:12,751 push QGridLayout gridLayout_10
+2021-05-07 17:16:12,751 setting property title
+2021-05-07 17:16:12,751 push QGroupBox groupBox_2
+2021-05-07 17:16:12,752 push QGridLayout gridLayout
+2021-05-07 17:16:12,752 resolved baseclass of ImageView: QtWidgets.QGraphicsView
+2021-05-07 17:16:12,752 setting property sizePolicy
+2021-05-07 17:16:12,752 setting property minimumSize
+2021-05-07 17:16:12,752 push ImageView imageView_1_edit
+2021-05-07 17:16:12,752 pop widget ImageView imageView_1_edit
+2021-05-07 17:16:12,752 new topwidget self.groupBox_2
+2021-05-07 17:16:12,752 pop layout QGridLayout gridLayout
+2021-05-07 17:16:12,753 pop widget QGroupBox groupBox_2
+2021-05-07 17:16:12,753 new topwidget self.groupBox
+2021-05-07 17:16:12,753 setting property title
+2021-05-07 17:16:12,753 push QGroupBox groupBox_3
+2021-05-07 17:16:12,753 push QGridLayout gridLayout_2
+2021-05-07 17:16:12,753 resolved baseclass of ImageView: QtWidgets.QGraphicsView
+2021-05-07 17:16:12,753 setting property sizePolicy
+2021-05-07 17:16:12,754 setting property minimumSize
+2021-05-07 17:16:12,754 push ImageView imageView
+2021-05-07 17:16:12,754 pop widget ImageView imageView
+2021-05-07 17:16:12,754 new topwidget self.groupBox_3
+2021-05-07 17:16:12,754 pop layout QGridLayout gridLayout_2
+2021-05-07 17:16:12,754 pop widget QGroupBox groupBox_3
+2021-05-07 17:16:12,754 new topwidget self.groupBox
+2021-05-07 17:16:12,754 pop layout QGridLayout gridLayout_10
+2021-05-07 17:16:12,754 setting property sizeConstraint
+2021-05-07 17:16:12,755 push QGridLayout gridLayout_16
+2021-05-07 17:16:12,755 setting property font
+2021-05-07 17:16:12,755 setting property styleSheet
+2021-05-07 17:16:12,755 setting property frameShape
+2021-05-07 17:16:12,755 setting property frameShadow
+2021-05-07 17:16:12,755 setting property text
+2021-05-07 17:16:12,755 push QLabel label
+2021-05-07 17:16:12,755 pop widget QLabel label
+2021-05-07 17:16:12,755 new topwidget self.groupBox
+2021-05-07 17:16:12,756 setting property enabled
+2021-05-07 17:16:12,756 setting property minimumSize
+2021-05-07 17:16:12,756 setting property font
+2021-05-07 17:16:12,756 setting property acceptDrops
+2021-05-07 17:16:12,756 setting property iconSize
+2021-05-07 17:16:12,756 push QComboBox comboBox
+2021-05-07 17:16:12,756 pop widget QComboBox comboBox
+2021-05-07 17:16:12,757 new topwidget self.groupBox
+2021-05-07 17:16:12,757 pop layout QGridLayout gridLayout_16
+2021-05-07 17:16:12,757 setting property orientation
+2021-05-07 17:16:12,757 push QFrame line
+2021-05-07 17:16:12,758 pop widget QFrame line
+2021-05-07 17:16:12,758 new topwidget self.groupBox
+2021-05-07 17:16:12,758 pop layout QGridLayout gridLayout_3
+2021-05-07 17:16:12,758 pop widget QGroupBox groupBox
+2021-05-07 17:16:12,758 new topwidget self.centralwidget
+2021-05-07 17:16:12,758 pop layout QGridLayout gridLayout_38
+2021-05-07 17:16:12,758 pop layout QGridLayout gridLayout_39
+2021-05-07 17:16:12,758 pop layout QGridLayout gridLayout_40
+2021-05-07 17:16:12,758 pop widget QWidget centralwidget
+2021-05-07 17:16:12,758 new topwidget MainWindow
+2021-05-07 17:16:12,759 setting property geometry
+2021-05-07 17:16:12,759 push QMenuBar menubar
+2021-05-07 17:16:12,759 setting property title
+2021-05-07 17:16:12,759 push QMenu menuBrowse
+2021-05-07 17:16:12,759 pop widget QMenu menuBrowse
+2021-05-07 17:16:12,759 new topwidget self.menubar
+2021-05-07 17:16:12,759 pop widget QMenuBar menubar
+2021-05-07 17:16:12,759 new topwidget MainWindow
+2021-05-07 17:16:12,760 push QStatusBar statusbar
+2021-05-07 17:16:12,760 pop widget QStatusBar statusbar
+2021-05-07 17:16:12,760 new topwidget MainWindow
+2021-05-07 17:16:12,760 setting property icon
+2021-05-07 17:16:12,760 setting property text
+2021-05-07 17:16:12,761 setting property enabled
+2021-05-07 17:16:12,761 setting property icon
+2021-05-07 17:16:12,761 setting property text
+2021-05-07 17:16:12,761 setting property icon
+2021-05-07 17:16:12,761 setting property text
+2021-05-07 17:16:12,762 pop widget QMainWindow MainWindow
+2021-05-07 17:16:12,762 new topwidget None
+2021-05-07 17:16:12,762 add action actionImage1 to menuBrowse
+2021-05-07 17:16:12,762 add action actionImage2 to menuBrowse
+2021-05-07 17:16:12,762 add action menuBrowse to menubar
+2021-05-07 17:16:12,768 The Application started successfully
+2021-05-07 17:17:53,923 Browsing the files
+2021-05-07 17:18:53,882 Image1 was added successfully
+2021-05-07 17:18:56,957 Browsing the files
+2021-05-07 17:19:01,792 Image1 was added successfully
+2021-05-07 17:19:04,316 Browsing the files
+2021-05-07 17:19:08,633 Image2 was added successfully
+2021-05-07 17:19:18,619 FT Magnitude component of image1 was added
+2021-05-07 17:19:28,280 FT Phase component of image1 was added
+2021-05-07 17:19:30,254 FT Real Component component of image1 was added
+2021-05-07 17:19:32,235 FT Imaginary Component component of image1 was added
+2021-05-07 17:19:39,256 FT Magnitude component of image2 was added
+2021-05-07 17:19:41,380 FT Phase component of image2 was added
+2021-05-07 17:19:42,992 FT Phase component of image2 was added
+2021-05-07 17:19:44,987 FT Real Component component of image2 was added
+2021-05-07 17:19:46,521 FT Imaginary Component component of image2 was added
+2021-05-07 17:19:49,713 ComboBoxes was adjusted
+2021-05-07 17:19:51,696 ComboBoxes was adjusted
+2021-05-07 17:19:53,680 ComboBoxes was adjusted
+2021-05-07 17:19:53,878 Output1 was generated
+2021-05-07 17:19:56,149 ComboBoxes was adjusted
+2021-05-07 17:19:56,167 Output1 was generated
+2021-05-07 17:19:56,248 ComboBoxes was adjusted
+2021-05-07 17:19:56,264 Output1 was generated
+2021-05-07 17:19:56,304 ComboBoxes was adjusted
+2021-05-07 17:19:56,323 Output1 was generated
+2021-05-07 17:19:56,385 ComboBoxes was adjusted
+2021-05-07 17:19:56,400 Output1 was generated
+2021-05-07 17:19:56,441 ComboBoxes was adjusted
+2021-05-07 17:19:56,456 Output1 was generated
+2021-05-07 17:19:56,524 ComboBoxes was adjusted
+2021-05-07 17:19:56,541 Output1 was generated
+2021-05-07 17:19:56,552 ComboBoxes was adjusted
+2021-05-07 17:19:56,573 Output1 was generated
+2021-05-07 17:19:56,594 ComboBoxes was adjusted
+2021-05-07 17:19:56,612 Output1 was generated
+2021-05-07 17:19:56,629 ComboBoxes was adjusted
+2021-05-07 17:19:56,647 Output1 was generated
+2021-05-07 17:19:56,656 ComboBoxes was adjusted
+2021-05-07 17:19:56,676 Output1 was generated
+2021-05-07 17:19:56,684 ComboBoxes was adjusted
+2021-05-07 17:19:56,702 Output1 was generated
+2021-05-07 17:19:56,716 ComboBoxes was adjusted
+2021-05-07 17:19:56,733 Output1 was generated
+2021-05-07 17:19:56,737 ComboBoxes was adjusted
+2021-05-07 17:19:56,762 Output1 was generated
+2021-05-07 17:19:56,767 ComboBoxes was adjusted
+2021-05-07 17:19:56,786 Output1 was generated
+2021-05-07 17:19:56,791 ComboBoxes was adjusted
+2021-05-07 17:19:56,813 Output1 was generated
+2021-05-07 17:19:56,822 ComboBoxes was adjusted
+2021-05-07 17:19:56,849 Output1 was generated
+2021-05-07 17:19:56,853 ComboBoxes was adjusted
+2021-05-07 17:19:56,875 Output1 was generated
+2021-05-07 17:19:56,880 ComboBoxes was adjusted
+2021-05-07 17:19:56,900 Output1 was generated
+2021-05-07 17:19:57,187 ComboBoxes was adjusted
+2021-05-07 17:19:57,207 Output1 was generated
+2021-05-07 17:19:57,215 ComboBoxes was adjusted
+2021-05-07 17:19:57,234 Output1 was generated
+2021-05-07 17:19:57,243 ComboBoxes was adjusted
+2021-05-07 17:19:57,262 Output1 was generated
+2021-05-07 17:19:57,265 ComboBoxes was adjusted
+2021-05-07 17:19:57,283 Output1 was generated
+2021-05-07 17:19:57,287 ComboBoxes was adjusted
+2021-05-07 17:19:57,304 Output1 was generated
+2021-05-07 17:19:57,309 ComboBoxes was adjusted
+2021-05-07 17:19:57,329 Output1 was generated
+2021-05-07 17:19:57,335 ComboBoxes was adjusted
+2021-05-07 17:19:57,353 Output1 was generated
+2021-05-07 17:19:57,366 ComboBoxes was adjusted
+2021-05-07 17:19:57,384 Output1 was generated
+2021-05-07 17:19:57,394 ComboBoxes was adjusted
+2021-05-07 17:19:57,415 Output1 was generated
+2021-05-07 17:19:57,419 ComboBoxes was adjusted
+2021-05-07 17:19:57,441 Output1 was generated
+2021-05-07 17:19:57,445 ComboBoxes was adjusted
+2021-05-07 17:19:57,465 Output1 was generated
+2021-05-07 17:19:57,468 ComboBoxes was adjusted
+2021-05-07 17:19:57,486 Output1 was generated
+2021-05-07 17:19:57,493 ComboBoxes was adjusted
+2021-05-07 17:19:57,514 Output1 was generated
+2021-05-07 17:19:57,518 ComboBoxes was adjusted
+2021-05-07 17:19:57,540 Output1 was generated
+2021-05-07 17:19:57,546 ComboBoxes was adjusted
+2021-05-07 17:19:57,574 Output1 was generated
+2021-05-07 17:19:57,579 ComboBoxes was adjusted
+2021-05-07 17:19:57,602 Output1 was generated
+2021-05-07 17:19:57,607 ComboBoxes was adjusted
+2021-05-07 17:19:57,628 Output1 was generated
+2021-05-07 17:19:57,694 ComboBoxes was adjusted
+2021-05-07 17:19:57,711 Output1 was generated
+2021-05-07 17:19:57,940 ComboBoxes was adjusted
+2021-05-07 17:19:57,958 Output1 was generated
+2021-05-07 17:19:57,966 ComboBoxes was adjusted
+2021-05-07 17:19:57,985 Output1 was generated
+2021-05-07 17:19:57,990 ComboBoxes was adjusted
+2021-05-07 17:19:58,009 Output1 was generated
+2021-05-07 17:19:58,015 ComboBoxes was adjusted
+2021-05-07 17:19:58,035 Output1 was generated
+2021-05-07 17:19:58,039 ComboBoxes was adjusted
+2021-05-07 17:19:58,059 Output1 was generated
+2021-05-07 17:19:58,073 ComboBoxes was adjusted
+2021-05-07 17:19:58,091 Output1 was generated
+2021-05-07 17:19:58,100 ComboBoxes was adjusted
+2021-05-07 17:19:58,120 Output1 was generated
+2021-05-07 17:19:58,126 ComboBoxes was adjusted
+2021-05-07 17:19:58,147 Output1 was generated
+2021-05-07 17:19:58,151 ComboBoxes was adjusted
+2021-05-07 17:19:58,176 Output1 was generated
+2021-05-07 17:19:58,182 ComboBoxes was adjusted
+2021-05-07 17:19:58,206 Output1 was generated
+2021-05-07 17:19:58,213 ComboBoxes was adjusted
+2021-05-07 17:19:58,235 Output1 was generated
+2021-05-07 17:19:58,240 ComboBoxes was adjusted
+2021-05-07 17:19:58,261 Output1 was generated
+2021-05-07 17:19:58,266 ComboBoxes was adjusted
+2021-05-07 17:19:58,288 Output1 was generated
+2021-05-07 17:19:58,539 ComboBoxes was adjusted
+2021-05-07 17:19:58,558 Output1 was generated
+2021-05-07 17:19:58,565 ComboBoxes was adjusted
+2021-05-07 17:19:58,582 Output1 was generated
+2021-05-07 17:19:58,594 ComboBoxes was adjusted
+2021-05-07 17:19:58,614 Output1 was generated
+2021-05-07 17:19:58,643 ComboBoxes was adjusted
+2021-05-07 17:19:58,663 Output1 was generated
+2021-05-07 17:19:58,699 ComboBoxes was adjusted
+2021-05-07 17:19:58,715 Output1 was generated
+2021-05-07 17:19:58,720 ComboBoxes was adjusted
+2021-05-07 17:19:58,740 Output1 was generated
+2021-05-07 17:19:58,745 ComboBoxes was adjusted
+2021-05-07 17:19:58,767 Output1 was generated
+2021-05-07 17:19:58,771 ComboBoxes was adjusted
+2021-05-07 17:19:58,790 Output1 was generated
+2021-05-07 17:19:58,794 ComboBoxes was adjusted
+2021-05-07 17:19:58,813 Output1 was generated
+2021-05-07 17:19:58,818 ComboBoxes was adjusted
+2021-05-07 17:19:58,836 Output1 was generated
+2021-05-07 17:19:58,849 ComboBoxes was adjusted
+2021-05-07 17:19:58,865 Output1 was generated
+2021-05-07 17:19:58,889 ComboBoxes was adjusted
+2021-05-07 17:19:58,907 Output1 was generated
+2021-05-07 17:19:59,165 ComboBoxes was adjusted
+2021-05-07 17:19:59,182 Output1 was generated
+2021-05-07 17:19:59,187 ComboBoxes was adjusted
+2021-05-07 17:19:59,207 Output1 was generated
+2021-05-07 17:19:59,211 ComboBoxes was adjusted
+2021-05-07 17:19:59,229 Output1 was generated
+2021-05-07 17:19:59,236 ComboBoxes was adjusted
+2021-05-07 17:19:59,263 Output1 was generated
+2021-05-07 17:19:59,268 ComboBoxes was adjusted
+2021-05-07 17:19:59,302 Output1 was generated
+2021-05-07 17:19:59,309 ComboBoxes was adjusted
+2021-05-07 17:19:59,338 Output1 was generated
+2021-05-07 17:19:59,346 ComboBoxes was adjusted
+2021-05-07 17:19:59,370 Output1 was generated
+2021-05-07 17:19:59,378 ComboBoxes was adjusted
+2021-05-07 17:19:59,403 Output1 was generated
+2021-05-07 17:19:59,410 ComboBoxes was adjusted
+2021-05-07 17:19:59,436 Output1 was generated
+2021-05-07 17:19:59,445 ComboBoxes was adjusted
+2021-05-07 17:19:59,474 Output1 was generated
+2021-05-07 17:19:59,480 ComboBoxes was adjusted
+2021-05-07 17:19:59,507 Output1 was generated
+2021-05-07 17:19:59,513 ComboBoxes was adjusted
+2021-05-07 17:19:59,539 Output1 was generated
+2021-05-07 17:19:59,546 ComboBoxes was adjusted
+2021-05-07 17:19:59,571 Output1 was generated
+2021-05-07 17:19:59,577 ComboBoxes was adjusted
+2021-05-07 17:19:59,604 Output1 was generated
+2021-05-07 17:19:59,614 ComboBoxes was adjusted
+2021-05-07 17:19:59,637 Output1 was generated
+2021-05-07 17:19:59,986 ComboBoxes was adjusted
+2021-05-07 17:20:00,013 Output1 was generated
+2021-05-07 17:20:00,018 ComboBoxes was adjusted
+2021-05-07 17:20:00,046 Output1 was generated
+2021-05-07 17:20:00,053 ComboBoxes was adjusted
+2021-05-07 17:20:00,082 Output1 was generated
+2021-05-07 17:20:00,086 ComboBoxes was adjusted
+2021-05-07 17:20:00,109 Output1 was generated
+2021-05-07 17:20:00,114 ComboBoxes was adjusted
+2021-05-07 17:20:00,136 Output1 was generated
+2021-05-07 17:20:00,142 ComboBoxes was adjusted
+2021-05-07 17:20:00,161 Output1 was generated
+2021-05-07 17:20:00,168 ComboBoxes was adjusted
+2021-05-07 17:20:00,195 Output1 was generated
+2021-05-07 17:20:00,712 ComboBoxes was adjusted
+2021-05-07 17:20:00,733 Output1 was generated
+2021-05-07 17:20:00,742 ComboBoxes was adjusted
+2021-05-07 17:20:00,760 Output1 was generated
+2021-05-07 17:20:00,765 ComboBoxes was adjusted
+2021-05-07 17:20:00,784 Output1 was generated
+2021-05-07 17:20:00,788 ComboBoxes was adjusted
+2021-05-07 17:20:00,808 Output1 was generated
+2021-05-07 17:20:00,813 ComboBoxes was adjusted
+2021-05-07 17:20:00,836 Output1 was generated
+2021-05-07 17:20:00,841 ComboBoxes was adjusted
+2021-05-07 17:20:00,864 Output1 was generated
+2021-05-07 17:20:00,868 ComboBoxes was adjusted
+2021-05-07 17:20:00,894 Output1 was generated
+2021-05-07 17:20:00,900 ComboBoxes was adjusted
+2021-05-07 17:20:00,919 Output1 was generated
+2021-05-07 17:20:00,925 ComboBoxes was adjusted
+2021-05-07 17:20:00,944 Output1 was generated
+2021-05-07 17:20:00,950 ComboBoxes was adjusted
+2021-05-07 17:20:00,974 Output1 was generated
+2021-05-07 17:20:01,672 ComboBoxes was adjusted
+2021-05-07 17:20:01,689 Output1 was generated
+2021-05-07 17:20:01,694 ComboBoxes was adjusted
+2021-05-07 17:20:01,712 Output1 was generated
+2021-05-07 17:20:01,715 ComboBoxes was adjusted
+2021-05-07 17:20:01,735 Output1 was generated
+2021-05-07 17:20:01,738 ComboBoxes was adjusted
+2021-05-07 17:20:01,757 Output1 was generated
+2021-05-07 17:20:01,762 ComboBoxes was adjusted
+2021-05-07 17:20:01,782 Output1 was generated
+2021-05-07 17:20:01,787 ComboBoxes was adjusted
+2021-05-07 17:20:01,810 Output1 was generated
+2021-05-07 17:20:01,815 ComboBoxes was adjusted
+2021-05-07 17:20:01,833 Output1 was generated
+2021-05-07 17:20:01,837 ComboBoxes was adjusted
+2021-05-07 17:20:01,854 Output1 was generated
+2021-05-07 17:20:01,869 ComboBoxes was adjusted
+2021-05-07 17:20:01,892 Output1 was generated
+2021-05-07 17:20:01,911 ComboBoxes was adjusted
+2021-05-07 17:20:01,930 Output1 was generated
+2021-05-07 17:20:03,197 ComboBoxes was adjusted
+2021-05-07 17:20:03,218 Output1 was generated
+2021-05-07 17:20:03,223 ComboBoxes was adjusted
+2021-05-07 17:20:03,246 Output1 was generated
+2021-05-07 17:20:03,251 ComboBoxes was adjusted
+2021-05-07 17:20:03,271 Output1 was generated
+2021-05-07 17:20:03,277 ComboBoxes was adjusted
+2021-05-07 17:20:03,297 Output1 was generated
+2021-05-07 17:20:03,302 ComboBoxes was adjusted
+2021-05-07 17:20:03,319 Output1 was generated
+2021-05-07 17:20:03,324 ComboBoxes was adjusted
+2021-05-07 17:20:03,343 Output1 was generated
+2021-05-07 17:20:03,347 ComboBoxes was adjusted
+2021-05-07 17:20:03,367 Output1 was generated
+2021-05-07 17:20:03,370 ComboBoxes was adjusted
+2021-05-07 17:20:03,393 Output1 was generated
+2021-05-07 17:20:03,397 ComboBoxes was adjusted
+2021-05-07 17:20:03,417 Output1 was generated
+2021-05-07 17:20:03,420 ComboBoxes was adjusted
+2021-05-07 17:20:03,439 Output1 was generated
+2021-05-07 17:20:03,445 ComboBoxes was adjusted
+2021-05-07 17:20:03,466 Output1 was generated
+2021-05-07 17:20:03,470 ComboBoxes was adjusted
+2021-05-07 17:20:03,497 Output1 was generated
+2021-05-07 17:20:03,503 ComboBoxes was adjusted
+2021-05-07 17:20:03,529 Output1 was generated
+2021-05-07 17:20:03,534 ComboBoxes was adjusted
+2021-05-07 17:20:03,565 Output1 was generated
+2021-05-07 17:20:03,569 ComboBoxes was adjusted
+2021-05-07 17:20:03,586 Output1 was generated
+2021-05-07 17:20:03,590 ComboBoxes was adjusted
+2021-05-07 17:20:03,610 Output1 was generated
+2021-05-07 17:20:03,614 ComboBoxes was adjusted
+2021-05-07 17:20:03,636 Output1 was generated
+2021-05-07 17:20:03,642 ComboBoxes was adjusted
+2021-05-07 17:20:03,665 Output1 was generated
+2021-05-07 17:20:03,864 ComboBoxes was adjusted
+2021-05-07 17:20:03,886 Output1 was generated
+2021-05-07 17:20:03,893 ComboBoxes was adjusted
+2021-05-07 17:20:03,916 Output1 was generated
+2021-05-07 17:20:03,920 ComboBoxes was adjusted
+2021-05-07 17:20:03,940 Output1 was generated
+2021-05-07 17:20:03,945 ComboBoxes was adjusted
+2021-05-07 17:20:03,964 Output1 was generated
+2021-05-07 17:20:03,967 ComboBoxes was adjusted
+2021-05-07 17:20:03,985 Output1 was generated
+2021-05-07 17:20:03,989 ComboBoxes was adjusted
+2021-05-07 17:20:04,011 Output1 was generated
+2021-05-07 17:20:04,017 ComboBoxes was adjusted
+2021-05-07 17:20:04,038 Output1 was generated
+2021-05-07 17:20:04,043 ComboBoxes was adjusted
+2021-05-07 17:20:04,066 Output1 was generated
+2021-05-07 17:20:04,070 ComboBoxes was adjusted
+2021-05-07 17:20:04,089 Output1 was generated
+2021-05-07 17:20:04,093 ComboBoxes was adjusted
+2021-05-07 17:20:04,116 Output1 was generated
+2021-05-07 17:20:04,135 ComboBoxes was adjusted
+2021-05-07 17:20:04,158 Output1 was generated
+2021-05-07 17:20:04,358 ComboBoxes was adjusted
+2021-05-07 17:20:04,382 Output1 was generated
+2021-05-07 17:20:04,387 ComboBoxes was adjusted
+2021-05-07 17:20:04,412 Output1 was generated
+2021-05-07 17:20:04,418 ComboBoxes was adjusted
+2021-05-07 17:20:04,440 Output1 was generated
+2021-05-07 17:20:04,446 ComboBoxes was adjusted
+2021-05-07 17:20:04,475 Output1 was generated
+2021-05-07 17:20:04,480 ComboBoxes was adjusted
+2021-05-07 17:20:04,509 Output1 was generated
+2021-05-07 17:20:05,832 ComboBoxes was adjusted
+2021-05-07 17:20:05,852 Output1 was generated
+2021-05-07 17:20:05,856 ComboBoxes was adjusted
+2021-05-07 17:20:05,877 Output1 was generated
+2021-05-07 17:20:05,883 ComboBoxes was adjusted
+2021-05-07 17:20:05,902 Output1 was generated
+2021-05-07 17:20:05,907 ComboBoxes was adjusted
+2021-05-07 17:20:05,925 Output1 was generated
+2021-05-07 17:20:05,932 ComboBoxes was adjusted
+2021-05-07 17:20:05,951 Output1 was generated
+2021-05-07 17:20:05,954 ComboBoxes was adjusted
+2021-05-07 17:20:05,973 Output1 was generated
+2021-05-07 17:20:05,977 ComboBoxes was adjusted
+2021-05-07 17:20:05,996 Output1 was generated
+2021-05-07 17:20:05,999 ComboBoxes was adjusted
+2021-05-07 17:20:06,017 Output1 was generated
+2021-05-07 17:20:06,027 ComboBoxes was adjusted
+2021-05-07 17:20:06,043 Output1 was generated
+2021-05-07 17:20:06,341 ComboBoxes was adjusted
+2021-05-07 17:20:06,365 Output1 was generated
+2021-05-07 17:20:06,370 ComboBoxes was adjusted
+2021-05-07 17:20:06,401 Output1 was generated
+2021-05-07 17:20:06,408 ComboBoxes was adjusted
+2021-05-07 17:20:06,457 Output1 was generated
+2021-05-07 17:20:06,462 ComboBoxes was adjusted
+2021-05-07 17:20:06,477 Output1 was generated
+2021-05-07 17:20:06,481 ComboBoxes was adjusted
+2021-05-07 17:20:06,503 Output1 was generated
+2021-05-07 17:20:06,508 ComboBoxes was adjusted
+2021-05-07 17:20:06,532 Output1 was generated
+2021-05-07 17:20:06,682 ComboBoxes was adjusted
+2021-05-07 17:20:06,703 Output1 was generated
+2021-05-07 17:20:06,708 ComboBoxes was adjusted
+2021-05-07 17:20:06,730 Output1 was generated
+2021-05-07 17:20:06,734 ComboBoxes was adjusted
+2021-05-07 17:20:06,753 Output1 was generated
+2021-05-07 17:20:06,758 ComboBoxes was adjusted
+2021-05-07 17:20:06,776 Output1 was generated
+2021-05-07 17:20:06,783 ComboBoxes was adjusted
+2021-05-07 17:20:06,800 Output1 was generated
+2021-05-07 17:20:06,804 ComboBoxes was adjusted
+2021-05-07 17:20:06,822 Output1 was generated
+2021-05-07 17:20:06,827 ComboBoxes was adjusted
+2021-05-07 17:20:06,849 Output1 was generated
+2021-05-07 17:20:06,853 ComboBoxes was adjusted
+2021-05-07 17:20:06,870 Output1 was generated
+2021-05-07 17:20:06,921 ComboBoxes was adjusted
+2021-05-07 17:20:06,937 Output1 was generated
+2021-05-07 17:20:06,942 ComboBoxes was adjusted
+2021-05-07 17:20:06,959 Output1 was generated
+2021-05-07 17:20:06,964 ComboBoxes was adjusted
+2021-05-07 17:20:06,984 Output1 was generated
+2021-05-07 17:20:06,987 ComboBoxes was adjusted
+2021-05-07 17:20:07,006 Output1 was generated
+2021-05-07 17:20:07,010 ComboBoxes was adjusted
+2021-05-07 17:20:07,028 Output1 was generated
+2021-05-07 17:20:07,035 ComboBoxes was adjusted
+2021-05-07 17:20:07,054 Output1 was generated
+2021-05-07 17:20:07,060 ComboBoxes was adjusted
+2021-05-07 17:20:07,078 Output1 was generated
+2021-05-07 17:20:07,083 ComboBoxes was adjusted
+2021-05-07 17:20:07,101 Output1 was generated
+2021-05-07 17:20:09,745 ComboBoxes was adjusted
+2021-05-07 17:20:09,762 Output1 was generated
+2021-05-07 17:20:09,767 ComboBoxes was adjusted
+2021-05-07 17:20:09,788 Output1 was generated
+2021-05-07 17:20:09,795 ComboBoxes was adjusted
+2021-05-07 17:20:09,815 Output1 was generated
+2021-05-07 17:20:09,819 ComboBoxes was adjusted
+2021-05-07 17:20:09,842 Output1 was generated
+2021-05-07 17:20:09,848 ComboBoxes was adjusted
+2021-05-07 17:20:09,874 Output1 was generated
+2021-05-07 17:20:09,880 ComboBoxes was adjusted
+2021-05-07 17:20:09,902 Output1 was generated
+2021-05-07 17:20:09,908 ComboBoxes was adjusted
+2021-05-07 17:20:09,929 Output1 was generated
+2021-05-07 17:20:09,932 ComboBoxes was adjusted
+2021-05-07 17:20:09,952 Output1 was generated
+2021-05-07 17:20:09,955 ComboBoxes was adjusted
+2021-05-07 17:20:09,974 Output1 was generated
+2021-05-07 17:20:09,979 ComboBoxes was adjusted
+2021-05-07 17:20:10,001 Output1 was generated
+2021-05-07 17:20:10,004 ComboBoxes was adjusted
+2021-05-07 17:20:10,023 Output1 was generated
+2021-05-07 17:20:10,028 ComboBoxes was adjusted
+2021-05-07 17:20:10,047 Output1 was generated
+2021-05-07 17:20:10,054 ComboBoxes was adjusted
+2021-05-07 17:20:10,072 Output1 was generated
+2021-05-07 17:20:10,078 ComboBoxes was adjusted
+2021-05-07 17:20:10,096 Output1 was generated
+2021-05-07 17:20:10,112 ComboBoxes was adjusted
+2021-05-07 17:20:10,130 Output1 was generated
+2021-05-07 17:20:10,232 ComboBoxes was adjusted
+2021-05-07 17:20:10,250 Output1 was generated
+2021-05-07 17:20:10,254 ComboBoxes was adjusted
+2021-05-07 17:20:10,278 Output1 was generated
+2021-05-07 17:20:10,285 ComboBoxes was adjusted
+2021-05-07 17:20:10,302 Output1 was generated
+2021-05-07 17:20:10,307 ComboBoxes was adjusted
+2021-05-07 17:20:10,325 Output1 was generated
+2021-05-07 17:20:10,329 ComboBoxes was adjusted
+2021-05-07 17:20:10,349 Output1 was generated
+2021-05-07 17:20:10,353 ComboBoxes was adjusted
+2021-05-07 17:20:10,372 Output1 was generated
+2021-05-07 17:20:10,376 ComboBoxes was adjusted
+2021-05-07 17:20:10,397 Output1 was generated
+2021-05-07 17:20:10,400 ComboBoxes was adjusted
+2021-05-07 17:20:10,421 Output1 was generated
+2021-05-07 17:20:10,427 ComboBoxes was adjusted
+2021-05-07 17:20:10,449 Output1 was generated
+2021-05-07 17:20:10,453 ComboBoxes was adjusted
+2021-05-07 17:20:10,472 Output1 was generated
+2021-05-07 17:20:10,477 ComboBoxes was adjusted
+2021-05-07 17:20:10,500 Output1 was generated
+2021-05-07 17:20:10,505 ComboBoxes was adjusted
+2021-05-07 17:20:10,528 Output1 was generated
+2021-05-07 17:20:10,932 ComboBoxes was adjusted
+2021-05-07 17:20:10,952 Output1 was generated
+2021-05-07 17:20:10,957 ComboBoxes was adjusted
+2021-05-07 17:20:10,977 Output1 was generated
+2021-05-07 17:20:10,981 ComboBoxes was adjusted
+2021-05-07 17:20:11,001 Output1 was generated
+2021-05-07 17:20:11,004 ComboBoxes was adjusted
+2021-05-07 17:20:11,022 Output1 was generated
+2021-05-07 17:20:11,027 ComboBoxes was adjusted
+2021-05-07 17:20:11,048 Output1 was generated
+2021-05-07 17:20:11,052 ComboBoxes was adjusted
+2021-05-07 17:20:11,069 Output1 was generated
+2021-05-07 17:20:11,073 ComboBoxes was adjusted
+2021-05-07 17:20:11,091 Output1 was generated
+2021-05-07 17:20:11,094 ComboBoxes was adjusted
+2021-05-07 17:20:11,117 Output1 was generated
+2021-05-07 17:20:11,120 ComboBoxes was adjusted
+2021-05-07 17:20:11,139 Output1 was generated
+2021-05-07 17:20:11,145 ComboBoxes was adjusted
+2021-05-07 17:20:11,164 Output1 was generated
+2021-05-07 17:20:11,169 ComboBoxes was adjusted
+2021-05-07 17:20:11,187 Output1 was generated
+2021-05-07 17:20:11,191 ComboBoxes was adjusted
+2021-05-07 17:20:11,209 Output1 was generated
+2021-05-07 17:20:11,214 ComboBoxes was adjusted
+2021-05-07 17:20:11,233 Output1 was generated
+2021-05-07 17:20:11,238 ComboBoxes was adjusted
+2021-05-07 17:20:11,264 Output1 was generated
+2021-05-07 17:20:11,754 ComboBoxes was adjusted
+2021-05-07 17:20:11,773 Output1 was generated
+2021-05-07 17:20:12,210 ComboBoxes was adjusted
+2021-05-07 17:20:12,227 Output1 was generated
+2021-05-07 17:20:12,232 ComboBoxes was adjusted
+2021-05-07 17:20:12,252 Output1 was generated
+2021-05-07 17:20:12,256 ComboBoxes was adjusted
+2021-05-07 17:20:12,274 Output1 was generated
+2021-05-07 17:20:12,280 ComboBoxes was adjusted
+2021-05-07 17:20:12,300 Output1 was generated
+2021-05-07 17:20:12,305 ComboBoxes was adjusted
+2021-05-07 17:20:12,326 Output1 was generated
+2021-05-07 17:20:12,331 ComboBoxes was adjusted
+2021-05-07 17:20:12,352 Output1 was generated
+2021-05-07 17:20:12,357 ComboBoxes was adjusted
+2021-05-07 17:20:12,379 Output1 was generated
+2021-05-07 17:20:12,384 ComboBoxes was adjusted
+2021-05-07 17:20:12,409 Output1 was generated
+2021-05-07 17:20:12,416 ComboBoxes was adjusted
+2021-05-07 17:20:12,442 Output1 was generated
+2021-05-07 17:20:12,447 ComboBoxes was adjusted
+2021-05-07 17:20:12,472 Output1 was generated
+2021-05-07 17:20:12,480 ComboBoxes was adjusted
+2021-05-07 17:20:12,502 Output1 was generated
+2021-05-07 17:20:12,509 ComboBoxes was adjusted
+2021-05-07 17:20:12,535 Output1 was generated
+2021-05-07 17:20:12,542 ComboBoxes was adjusted
+2021-05-07 17:20:12,561 Output1 was generated
+2021-05-07 17:20:12,566 ComboBoxes was adjusted
+2021-05-07 17:20:12,585 Output1 was generated
+2021-05-07 17:20:12,588 ComboBoxes was adjusted
+2021-05-07 17:20:12,609 Output1 was generated
+2021-05-07 17:20:12,613 ComboBoxes was adjusted
+2021-05-07 17:20:12,635 Output1 was generated
+2021-05-07 17:20:12,640 ComboBoxes was adjusted
+2021-05-07 17:20:12,663 Output1 was generated
+2021-05-07 17:20:12,670 ComboBoxes was adjusted
+2021-05-07 17:20:12,696 Output1 was generated
+2021-05-07 17:20:12,701 ComboBoxes was adjusted
+2021-05-07 17:20:12,729 Output1 was generated
+2021-05-07 17:20:12,735 ComboBoxes was adjusted
+2021-05-07 17:20:12,760 Output1 was generated
+2021-05-07 17:20:13,037 ComboBoxes was adjusted
+2021-05-07 17:20:13,058 Output1 was generated
+2021-05-07 17:20:13,061 ComboBoxes was adjusted
+2021-05-07 17:20:13,085 Output1 was generated
+2021-05-07 17:20:13,089 ComboBoxes was adjusted
+2021-05-07 17:20:13,116 Output1 was generated
+2021-05-07 17:20:13,121 ComboBoxes was adjusted
+2021-05-07 17:20:13,143 Output1 was generated
+2021-05-07 17:20:13,147 ComboBoxes was adjusted
+2021-05-07 17:20:13,166 Output1 was generated
+2021-05-07 17:20:13,171 ComboBoxes was adjusted
+2021-05-07 17:20:13,191 Output1 was generated
+2021-05-07 17:20:13,196 ComboBoxes was adjusted
+2021-05-07 17:20:13,216 Output1 was generated
+2021-05-07 17:20:13,220 ComboBoxes was adjusted
+2021-05-07 17:20:13,237 Output1 was generated
+2021-05-07 17:20:13,242 ComboBoxes was adjusted
+2021-05-07 17:20:13,262 Output1 was generated
+2021-05-07 17:20:13,594 ComboBoxes was adjusted
+2021-05-07 17:20:13,617 Output1 was generated
+2021-05-07 17:20:13,623 ComboBoxes was adjusted
+2021-05-07 17:20:13,644 Output1 was generated
+2021-05-07 17:20:13,650 ComboBoxes was adjusted
+2021-05-07 17:20:13,675 Output1 was generated
+2021-05-07 17:20:13,894 ComboBoxes was adjusted
+2021-05-07 17:20:13,914 Output1 was generated
+2021-05-07 17:20:13,920 ComboBoxes was adjusted
+2021-05-07 17:20:13,937 Output1 was generated
+2021-05-07 17:20:13,943 ComboBoxes was adjusted
+2021-05-07 17:20:13,961 Output1 was generated
+2021-05-07 17:20:13,965 ComboBoxes was adjusted
+2021-05-07 17:20:13,983 Output1 was generated
+2021-05-07 17:20:13,988 ComboBoxes was adjusted
+2021-05-07 17:20:14,007 Output1 was generated
+2021-05-07 17:20:14,012 ComboBoxes was adjusted
+2021-05-07 17:20:14,031 Output1 was generated
+2021-05-07 17:20:14,035 ComboBoxes was adjusted
+2021-05-07 17:20:14,053 Output1 was generated
+2021-05-07 17:20:14,059 ComboBoxes was adjusted
+2021-05-07 17:20:14,083 Output1 was generated
+2021-05-07 17:20:14,091 ComboBoxes was adjusted
+2021-05-07 17:20:14,117 Output1 was generated
+2021-05-07 17:20:14,120 ComboBoxes was adjusted
+2021-05-07 17:20:14,147 Output1 was generated
+2021-05-07 17:20:14,152 ComboBoxes was adjusted
+2021-05-07 17:20:14,185 Output1 was generated
+2021-05-07 17:20:14,191 ComboBoxes was adjusted
+2021-05-07 17:20:14,217 Output1 was generated
+2021-05-07 17:20:14,222 ComboBoxes was adjusted
+2021-05-07 17:20:14,253 Output1 was generated
+2021-05-07 17:20:14,258 ComboBoxes was adjusted
+2021-05-07 17:20:14,295 Output1 was generated
+2021-05-07 17:20:14,301 ComboBoxes was adjusted
+2021-05-07 17:20:14,325 Output1 was generated
+2021-05-07 17:20:14,435 ComboBoxes was adjusted
+2021-05-07 17:20:14,460 Output1 was generated
+2021-05-07 17:20:14,466 ComboBoxes was adjusted
+2021-05-07 17:20:14,492 Output1 was generated
+2021-05-07 17:20:14,496 ComboBoxes was adjusted
+2021-05-07 17:20:14,522 Output1 was generated
+2021-05-07 17:20:14,528 ComboBoxes was adjusted
+2021-05-07 17:20:14,553 Output1 was generated
+2021-05-07 17:20:14,558 ComboBoxes was adjusted
+2021-05-07 17:20:14,587 Output1 was generated
+2021-05-07 17:20:14,977 ComboBoxes was adjusted
+2021-05-07 17:20:14,997 Output1 was generated
+2021-05-07 17:20:15,002 ComboBoxes was adjusted
+2021-05-07 17:20:15,020 Output1 was generated
+2021-05-07 17:20:15,027 ComboBoxes was adjusted
+2021-05-07 17:20:15,051 Output1 was generated
+2021-05-07 17:20:15,056 ComboBoxes was adjusted
+2021-05-07 17:20:15,078 Output1 was generated
+2021-05-07 17:20:15,083 ComboBoxes was adjusted
+2021-05-07 17:20:15,109 Output1 was generated
+2021-05-07 17:20:15,114 ComboBoxes was adjusted
+2021-05-07 17:20:15,135 Output1 was generated
+2021-05-07 17:20:15,318 ComboBoxes was adjusted
+2021-05-07 17:20:15,337 Output1 was generated
+2021-05-07 17:20:15,342 ComboBoxes was adjusted
+2021-05-07 17:20:15,361 Output1 was generated
+2021-05-07 17:20:15,366 ComboBoxes was adjusted
+2021-05-07 17:20:15,385 Output1 was generated
+2021-05-07 17:20:15,389 ComboBoxes was adjusted
+2021-05-07 17:20:15,407 Output1 was generated
+2021-05-07 17:20:15,412 ComboBoxes was adjusted
+2021-05-07 17:20:15,432 Output1 was generated
+2021-05-07 17:20:15,677 ComboBoxes was adjusted
+2021-05-07 17:20:15,695 Output1 was generated
+2021-05-07 17:20:15,699 ComboBoxes was adjusted
+2021-05-07 17:20:15,718 Output1 was generated
+2021-05-07 17:20:15,722 ComboBoxes was adjusted
+2021-05-07 17:20:15,743 Output1 was generated
+2021-05-07 17:20:15,747 ComboBoxes was adjusted
+2021-05-07 17:20:15,768 Output1 was generated
+2021-05-07 17:20:15,772 ComboBoxes was adjusted
+2021-05-07 17:20:15,794 Output1 was generated
+2021-05-07 17:20:15,799 ComboBoxes was adjusted
+2021-05-07 17:20:15,818 Output1 was generated
+2021-05-07 17:20:15,821 ComboBoxes was adjusted
+2021-05-07 17:20:15,841 Output1 was generated
+2021-05-07 17:20:16,053 ComboBoxes was adjusted
+2021-05-07 17:20:16,070 Output1 was generated
+2021-05-07 17:20:16,074 ComboBoxes was adjusted
+2021-05-07 17:20:16,092 Output1 was generated
+2021-05-07 17:20:16,097 ComboBoxes was adjusted
+2021-05-07 17:20:16,114 Output1 was generated
+2021-05-07 17:20:16,120 ComboBoxes was adjusted
+2021-05-07 17:20:16,137 Output1 was generated
+2021-05-07 17:20:16,137 ComboBoxes was adjusted
+2021-05-07 17:20:16,159 Output1 was generated
+2021-05-07 17:20:16,162 ComboBoxes was adjusted
+2021-05-07 17:20:16,184 Output1 was generated
+2021-05-07 17:20:16,187 ComboBoxes was adjusted
+2021-05-07 17:20:16,206 Output1 was generated
+2021-05-07 17:20:16,211 ComboBoxes was adjusted
+2021-05-07 17:20:16,232 Output1 was generated
+2021-05-07 17:20:16,235 ComboBoxes was adjusted
+2021-05-07 17:20:16,258 Output1 was generated
+2021-05-07 17:20:16,263 ComboBoxes was adjusted
+2021-05-07 17:20:16,287 Output1 was generated
+2021-05-07 17:20:16,291 ComboBoxes was adjusted
+2021-05-07 17:20:16,316 Output1 was generated
+2021-05-07 17:20:19,607 ComboBoxes was adjusted
+2021-05-07 17:20:19,625 Output1 was generated
+2021-05-07 17:20:19,632 ComboBoxes was adjusted
+2021-05-07 17:20:19,655 Output1 was generated
+2021-05-07 17:20:19,661 ComboBoxes was adjusted
+2021-05-07 17:20:19,680 Output1 was generated
+2021-05-07 17:20:19,684 ComboBoxes was adjusted
+2021-05-07 17:20:19,704 Output1 was generated
+2021-05-07 17:20:19,708 ComboBoxes was adjusted
+2021-05-07 17:20:19,730 Output1 was generated
+2021-05-07 17:20:19,735 ComboBoxes was adjusted
+2021-05-07 17:20:19,753 Output1 was generated
+2021-05-07 17:20:19,756 ComboBoxes was adjusted
+2021-05-07 17:20:19,776 Output1 was generated
+2021-05-07 17:20:19,779 ComboBoxes was adjusted
+2021-05-07 17:20:19,800 Output1 was generated
+2021-05-07 17:20:19,804 ComboBoxes was adjusted
+2021-05-07 17:20:19,826 Output1 was generated
+2021-05-07 17:20:19,830 ComboBoxes was adjusted
+2021-05-07 17:20:19,851 Output1 was generated
+2021-05-07 17:20:19,854 ComboBoxes was adjusted
+2021-05-07 17:20:19,872 Output1 was generated
+2021-05-07 17:20:20,196 ComboBoxes was adjusted
+2021-05-07 17:20:20,218 Output1 was generated
+2021-05-07 17:20:20,225 ComboBoxes was adjusted
+2021-05-07 17:20:20,243 Output1 was generated
+2021-05-07 17:20:20,248 ComboBoxes was adjusted
+2021-05-07 17:20:20,267 Output1 was generated
+2021-05-07 17:20:20,272 ComboBoxes was adjusted
+2021-05-07 17:20:20,294 Output1 was generated
+2021-05-07 17:20:20,298 ComboBoxes was adjusted
+2021-05-07 17:20:20,317 Output1 was generated
+2021-05-07 17:20:20,321 ComboBoxes was adjusted
+2021-05-07 17:20:20,338 Output1 was generated
+2021-05-07 17:20:20,348 ComboBoxes was adjusted
+2021-05-07 17:20:20,369 Output1 was generated
+2021-05-07 17:20:20,666 ComboBoxes was adjusted
+2021-05-07 17:20:20,685 Output1 was generated
+2021-05-07 17:20:20,688 ComboBoxes was adjusted
+2021-05-07 17:20:20,710 Output1 was generated
+2021-05-07 17:20:20,715 ComboBoxes was adjusted
+2021-05-07 17:20:20,734 Output1 was generated
+2021-05-07 17:20:20,737 ComboBoxes was adjusted
+2021-05-07 17:20:20,757 Output1 was generated
+2021-05-07 17:20:20,762 ComboBoxes was adjusted
+2021-05-07 17:20:20,781 Output1 was generated
+2021-05-07 17:20:20,782 ComboBoxes was adjusted
+2021-05-07 17:20:20,800 Output1 was generated
+2021-05-07 17:20:20,803 ComboBoxes was adjusted
+2021-05-07 17:20:20,820 Output1 was generated
+2021-05-07 17:20:20,824 ComboBoxes was adjusted
+2021-05-07 17:20:20,845 Output1 was generated
+2021-05-07 17:20:20,851 ComboBoxes was adjusted
+2021-05-07 17:20:20,869 Output1 was generated
+2021-05-07 17:20:20,873 ComboBoxes was adjusted
+2021-05-07 17:20:20,893 Output1 was generated
+2021-05-07 17:20:20,898 ComboBoxes was adjusted
+2021-05-07 17:20:20,918 Output1 was generated
+2021-05-07 17:20:20,921 ComboBoxes was adjusted
+2021-05-07 17:20:20,941 Output1 was generated
+2021-05-07 17:20:20,945 ComboBoxes was adjusted
+2021-05-07 17:20:20,966 Output1 was generated
+2021-05-07 17:20:20,970 ComboBoxes was adjusted
+2021-05-07 17:20:20,988 Output1 was generated
+2021-05-07 17:20:20,993 ComboBoxes was adjusted
+2021-05-07 17:20:21,011 Output1 was generated
+2021-05-07 17:20:21,015 ComboBoxes was adjusted
+2021-05-07 17:20:21,036 Output1 was generated
+2021-05-07 17:20:21,039 ComboBoxes was adjusted
+2021-05-07 17:20:21,059 Output1 was generated
+2021-05-07 17:20:21,287 ComboBoxes was adjusted
+2021-05-07 17:20:21,304 Output1 was generated
+2021-05-07 17:20:21,308 ComboBoxes was adjusted
+2021-05-07 17:20:21,330 Output1 was generated
+2021-05-07 17:20:21,337 ComboBoxes was adjusted
+2021-05-07 17:20:21,355 Output1 was generated
+2021-05-07 17:20:21,359 ComboBoxes was adjusted
+2021-05-07 17:20:21,381 Output1 was generated
+2021-05-07 17:20:21,386 ComboBoxes was adjusted
+2021-05-07 17:20:21,404 Output1 was generated
+2021-05-07 17:20:21,408 ComboBoxes was adjusted
+2021-05-07 17:20:21,428 Output1 was generated
+2021-05-07 17:20:21,433 ComboBoxes was adjusted
+2021-05-07 17:20:21,452 Output1 was generated
+2021-05-07 17:20:21,455 ComboBoxes was adjusted
+2021-05-07 17:20:21,476 Output1 was generated
+2021-05-07 17:20:21,480 ComboBoxes was adjusted
+2021-05-07 17:20:21,501 Output1 was generated
+2021-05-07 17:20:21,508 ComboBoxes was adjusted
+2021-05-07 17:20:21,527 Output1 was generated
+2021-05-07 17:20:21,530 ComboBoxes was adjusted
+2021-05-07 17:20:21,553 Output1 was generated
+2021-05-07 17:20:21,558 ComboBoxes was adjusted
+2021-05-07 17:20:21,583 Output1 was generated
+2021-05-07 17:20:21,588 ComboBoxes was adjusted
+2021-05-07 17:20:21,615 Output1 was generated
+2021-05-07 17:20:29,388 FT Phase component of image1 was added
+2021-05-07 17:20:35,153 FT Magnitude component of image1 was added
